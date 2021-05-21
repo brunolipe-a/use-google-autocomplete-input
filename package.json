@@ -24,6 +24,14 @@
   },
   "author": "Bruno Felipe",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunolipe-a/use-google-autocomplete-input/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/brunolipe-a/use-google-autocomplete-input.git"
+  },
+  "homepage": "https://github.com/brunolipe-a/use-google-autocomplete-input#readme",
   "keywords": [
     "google-places",
     "react-google-autocomplete",

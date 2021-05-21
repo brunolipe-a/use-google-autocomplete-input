@@ -2,7 +2,7 @@ import { useCallback, useEffect, useRef } from 'react';
 
 import { LoaderOptions, Loader } from '@googlemaps/js-api-loader';
 
-export const isBrowser = typeof window !== 'undefined' && window.document;
+const isBrowser = typeof window !== 'undefined' && window.document;
 
 export interface UseGoogleAutocompleteInputProps {
   apiKey: string;
